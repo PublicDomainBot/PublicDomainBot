@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PublicDomainBot
+- 👋 Hi, I’m public domain
 - 👀 I’m interested in public domain
 - 🌱 I’m currently learning public domain
 - 💞️ I’m looking to collaborate on public domain
